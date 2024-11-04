@@ -32,4 +32,4 @@ if uploaded_file is not None:
         st.write(captions)
 
 # Directly configure API key for testing
-genai.configure(api_key="AIzaSyAQ7d_-esZIxBDT2MHcH3tadYODewYIrfM")
+genai.configure(api_key="YOUR_API_KEY")
