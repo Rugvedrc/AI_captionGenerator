@@ -20,5 +20,5 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Rugvedrc/creative-caption-generator.git
-   cd creative-caption-generator
+   git clone https://github.com/Rugvedrc/AI_captionGenerator.git
+   cd AI_captionGenerator
